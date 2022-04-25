@@ -3,7 +3,7 @@
 
 ## CAP413_Computational_Statistics 
 
-Reposiotry created to stored activities from Computational Statistics classes offered by INPE
+Reposiotry created to stored activities from Computational Statistics classes.
 
 Subjects:
 
