@@ -13,7 +13,7 @@ Subjects:
 * Introdution to Random Walk and Monte Carlo Methods
 * Probability
 * Discrete Random Variables and Probability Distributions
-* Continus Random Variables and Probability Distributions
+* Continuos Random Variables and Probability Distributions
 * Kernel Density Estimation
 * Frequency Domain, Series and Fourier Transform
 * Introdution to Computational Analysis and Time Series
