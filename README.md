@@ -1,7 +1,7 @@
 
 ![image](https://user-images.githubusercontent.com/75332447/165118788-f7277abc-ec7c-459f-9e0e-b12aa4c8df8a.png)
 
-## CAP413_Computational_Statistics_2022
+## CAP417_Computational_Statistics_2022
 
 Reposiotry created to stored activities from Computational Statistics classes.
 
